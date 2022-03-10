@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UnityNest</string>
+    <string name="enter_your_email_id">Enter your email Id</string>
+    <string name="text_password">enter password</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email Id</string>
+    <string name="unitynest">UnityNest</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to">WELCOME TO....</string>
+    <string name="web_development">Web Development</string>
+    <string name="android_development">Android Development</string>
+    <string name="artificial_intilligence">Artificial Intilligence</string>
+    <string name="machine_learning">Machine Learning</string>
+    <string name="hello_buddy">Hello Buddy..</string>
+    <string name="here_you_have_some_choices">Here you have some choices 😊</string>
+    <string name="string_here_you_have_some_choices" />
+    <string name="here_you_have_some_choice">Here you have some choices</string>
+    <string name="logout">LOGOUT</string>
+
+</resources>

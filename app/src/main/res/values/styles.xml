@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CardStyle">
+        <item name="android:layout_width">364dp</item>
+        <item name="android:layout_height">62dp</item>
+        <item name="android:layout_marginStart">24dp</item>
+        <item name="android:layout_marginTop">240dp</item>
+        <item name="android:layout_marginEnd">24dp</item>
+        <item name="android:foregroundGravity">center</item>
+    </style>
+
+    <style name="card_style">
+        <item name="android:layout_width">174.5dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+</resources>
